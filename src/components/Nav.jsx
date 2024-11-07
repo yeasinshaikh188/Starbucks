@@ -55,7 +55,7 @@ function Nav() {
                         <ul className="h-full flex items-center gap-4 md:gap-9">
                             <NavLink to="/">
                                 <li onClick={hendlmenu4} className="list-none">
-                                    <img src="img/logo.png" alt="" className="w-[40px] md:w-[50px]" />
+                                    <img src="logo.png" alt="" className="w-[40px] md:w-[50px]" />
                                 </li>
                             </NavLink>
 
