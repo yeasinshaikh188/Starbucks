@@ -9,7 +9,7 @@ function Home() {
             <div className='grid grid-rows-4 gap-10'>
             <div className='grid grid-cols-1 lg:grid-cols-2'>
                 <div>       
-                    <img src="img/img1.jpg" alt="" />
+                    <img src="img1.jpg" alt="" />
                 </div>
                 <div className='bg-[#d2d656] flex flex-col items-center justify-center'>
                     <h1 className='text-[30px] pt-5 lg:text-[50px] text-[#1e3831] leading-tight leterS font-bold'>Send a scary-<br />delicious treat</h1>
@@ -30,14 +30,14 @@ function Home() {
                     </div>
                 </div>
                 <div>
-                    <img src="img/img2.jpg" alt="" />
+                    <img src="img2.jpg" alt="" />
                 </div>
             </div>
 
 
             <div className='grid grid-cols-1 lg:grid-cols-2'>
                 <div>
-                    <img src="img/img3.webp" alt="" />
+                    <img src="img3.webp" alt="" />
                 </div>
                 <div className='bg-[#9e2342] flex flex-col items-center justify-center'>
                     <h1 className='text-[30px] pt-5 lg:text-[50px] text-[#fff] leading-tight leterS font-bold text-center'>A bunch of <br /> delicious</h1>
@@ -58,7 +58,7 @@ function Home() {
                     </div>
                 </div>
                 <div>
-                    <img src="img/img4.jpg" alt="" />
+                    <img src="img4.jpg" alt="" />
                 </div>
             </div>
             </div>
@@ -69,7 +69,7 @@ function Home() {
             <div className='grid grid-row-3 gap-10'>
             <div className='grid grid-cols-2'>
                 <div>
-                    <img src="img/img5.webp" alt="" />
+                    <img src="img5.webp" alt="" />
                 </div>
                 <div className=' bg-[#006141] flex flex-col items-center justify-center'>
                     <h1 className='lg:pt-0 pt-3 text-[20px] text-[#fff] leading-tight leterS font-bold'>Your treat awaits</h1>
@@ -89,7 +89,7 @@ function Home() {
                     </div>
                 </div>
                 <div>
-                    <img src="img/img6.jpg" alt="" />
+                    <img src="img6.jpg" alt="" />
                 </div>
             </div>
 
